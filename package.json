@@ -1,0 +1,27 @@
+{
+  "name": "capstone-online-shop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prabirstack/capstone-online-shop.git"
+  },
+  "keywords": [],
+  "author": "Prabir Singh",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/prabirstack/capstone-online-shop/issues"
+  },
+  "homepage": "https://github.com/prabirstack/capstone-online-shop#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
